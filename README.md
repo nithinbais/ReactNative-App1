@@ -1,1 +1,1 @@
-You can get apk in src folder. folder name called apk
+You can get apk in src folder. folder name apk
