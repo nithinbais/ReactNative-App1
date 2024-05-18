@@ -1,1 +1,1 @@
-# ReactNative-App1
+You can get apk in src folder. folder name called apk
